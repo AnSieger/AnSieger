@@ -1,6 +1,7 @@
 ### Hi there 👋
+<!--
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ansieger&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true)
-
+-->
 ![](https://media2.giphy.com/media/tkApIfibjeWt1ufWwj/giphy.gif?cid=ecf05e471bjf2k4t448v3x1w4qpciai9250x0gvnnrkj36o1&rid=giphy.gif&ct=g)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansieger&theme=Gradient&hide=html,css&count_private=true&show_icons=true&layout=compact)
