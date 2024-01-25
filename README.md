@@ -2,7 +2,6 @@
 <!--
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ansieger&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true)
 -->
-![](https://media2.giphy.com/media/tkApIfibjeWt1ufWwj/giphy.gif?cid=ecf05e471bjf2k4t448v3x1w4qpciai9250x0gvnnrkj36o1&rid=giphy.gif&ct=g)
 
 - 🔭 I’m currently working on Cubebased
 - 🤔 I’m looking for help with Flutter
